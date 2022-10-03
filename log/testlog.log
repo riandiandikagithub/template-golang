@@ -1,0 +1,5 @@
+{"level":"info","time":"2022-09-15T15:41:15.198+0700","file":"payment-simulator/main.go:38","msg":"initiate configuration service"}
+{"level":"info","time":"2022-09-15T15:57:29.726+0700","file":"payment-simulator/main.go:51","msg":"got an interrupt, exiting..."}
+{"level":"info","time":"2022-09-15T15:57:33.052+0700","file":"payment-simulator/main.go:38","msg":"initiate configuration service"}
+{"level":"info","time":"2022-09-22T19:49:49.262+0700","file":"payment-simulator/main.go:38","msg":"initiate configuration service"}
+{"level":"info","time":"2022-09-22T19:50:54.564+0700","file":"payment-simulator/main.go:51","msg":"got an interrupt, exiting..."}
